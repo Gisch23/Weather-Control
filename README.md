@@ -1,4 +1,5 @@
-![WeatherControl](https://github.com/user-attachments/assets/bbc563fd-9b55-4ee7-9998-0f966006ff19)
+
+![Overlay](https://github.com/user-attachments/assets/8c888f8d-fb6d-49cf-baec-393a625c086c)
 
 This is just a small Widget with the following functionalities:
 -Show time and date. (font customizable by right clicking on it). 
